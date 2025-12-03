@@ -46,28 +46,28 @@ npm run dev
 ## 📖 Usage Guide
 Once the application is running, follow this flow to test the core features:
 
-1. Landing Page:
+   1. Landing Page:
 
-Upon loading, you will see the landing page.
+      * Upon loading, you will see the landing page.
 
-Click the "Get Started" or "Start for free" button to proceed.
+      * Click the "Get Started" or "Start for free" button to proceed.
 
-2. Authentication:
+   2. Authentication:
 
-Locate the "Sign In" button.
+      * Locate the "Sign In" button.
 
-Clicking this will trigger the side panel (modal) to appear for user login credentials.
+      * Clicking this will trigger the side panel (modal) to appear for user login credentials.
 
-3. Campaign Management:
+   3. Campaign Management:
 
-After logging in, navigate to the Campaigns tab in the dashboard.
+      * After logging in, navigate to the Campaigns tab in the dashboard.
 
-Select an existing campaign.
+      * Select an existing campaign.
 
-4. AI Writer Demo:
+   4. AI Writer Demo:
 
-Click the Edit button on a campaign.
+      * Click the Edit button on a campaign.
 
-This will launch the AI Writer interface, demonstrating the core text generation capabilities.
+      * This will launch the AI Writer interface, demonstrating the core text generation capabilities.
 
 
