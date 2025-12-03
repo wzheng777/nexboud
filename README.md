@@ -24,15 +24,15 @@ Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 ### Installation
 Clone the repository:
 
-```bash
 
+```bash
 git clone https://github.com/wzheng777/nexbound.git
 Navigate to the project directory:
-
+```
 ```bash
 cd repo-name
 Install dependencies:
-
+```
 ```bash
 
 npm install
